@@ -58,7 +58,7 @@ export default function Hero() {
         <div className="hero-content">
           {/* LEFT */}
           <div className="hero-text">
-            <p className="hero-greeting">Hello, World! 👋</p>
+            <p className="hero-greeting">Hello, Worldddd!!!!! 👋</p>
 
             <h1 className="hero-name">
               Md Shadab<br />
